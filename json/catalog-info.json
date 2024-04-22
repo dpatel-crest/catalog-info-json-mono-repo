@@ -1,0 +1,12 @@
+{
+  "kind": "Component", 
+  "spec": {
+    "owner": "dhrumit", 
+    "type": "url", 
+    "lifecycle": "experimental"
+  }, 
+  "apiVersion": "backstage.io/v1alpha1", 
+  "metadata": {
+    "name": "test-dot-slash-http"
+  }
+}
