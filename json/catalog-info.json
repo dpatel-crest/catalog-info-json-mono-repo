@@ -1,12 +1,12 @@
 {
   "kind": "Component", 
   "spec": {
-    "owner": "dhrumit", 
+    "owner": "catalog-info-json-dhrumit", 
     "type": "url", 
     "lifecycle": "experimental"
   }, 
   "apiVersion": "backstage.io/v1alpha1", 
   "metadata": {
-    "name": "test-dot-slash-http"
+    "name": "catalog-info-json"
   }
 }
