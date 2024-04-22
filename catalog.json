@@ -1,0 +1,13 @@
+{
+  "kind": "Location", 
+  "spec": {
+    "owner": "json-dhrumit", 
+    "type": "url", 
+    "lifecycle": "experimental", 
+    "target": "/json/catalog-info.json"
+  }, 
+  "apiVersion": "backstage.io/v1alpha1", 
+  "metadata": {
+    "name": "sample-split-monorepo-target-only"
+  }
+}
