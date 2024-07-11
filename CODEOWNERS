@@ -1,1 +1,5 @@
-* @dpatel-crest
+# This is a comment
+# Each line represents a file pattern followed by one or more owners
+
+# All files in the repository
+*       @dpatel-crest
