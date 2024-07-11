@@ -1,5 +1,8 @@
-# This is a comment
-# Each line represents a file pattern followed by one or more owners
+# 
+# pattern:
+#
+# file/directory    user
 
-# All files in the repository
-*       @dpatel-crest @sbhesaniya-crest
+*       @dpatel-crest
+
+test/    @sbhesaniya-crest
